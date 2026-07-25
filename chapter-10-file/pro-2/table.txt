@@ -1,0 +1,2 @@
+6
+cd "C:\Users\user\Documents\c pro_pra10\output"
